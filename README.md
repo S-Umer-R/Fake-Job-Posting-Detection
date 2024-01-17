@@ -28,6 +28,7 @@ The dataset used in this project is loaded from an Excel file (`FakeJobPostings.
 ## Repository Structure
 - **fake_job_detection.ipynb:** Jupyter Notebook containing the entire code.
 - **FakeJobPostings.xlsx:** Excel file containing the dataset.
+- **Detection.py:** Python file which is used to detect the fradulent jobs.
 - **README.md:** Documentation providing an overview, setup instructions, and explanations.
 
 ## Instructions
